@@ -26,5 +26,5 @@ Any changes pushed to the `main` branch are reflected on the live site.
 ## Notes
 This repository is intended for website development and maintenance only.
 
-**Live site:** https://yourusername.github.io/repo-name/
+**Live site:** https://ChiomaIfi.github.io/repo-name/
 
