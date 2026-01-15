@@ -13,23 +13,6 @@ The site is organized using a folder-per-page structure, where each directory re
 
 Additional sections may be added as the site grows.
 
-## Project Structure
-/
-├── index.html
-├── about/
-│ └── index.html
-├── academics/
-│ └── index.html
-├── contact/
-│ └── index.html
-├── the-achievers-hub/
-│ └── index.html
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-└── README.md
-
 ## Technologies Used
 - HTML5
 - CSS3
