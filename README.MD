@@ -26,5 +26,5 @@ Any changes pushed to the `main` branch are reflected on the live site.
 ## Notes
 This repository is intended for website development and maintenance only.
 
-**Live site:** https://ChiomaIfi.github.io/The-Achievers-Hub/
+**Live site:** https://chiomaifi.github.io/The-achievers-hub/
 
